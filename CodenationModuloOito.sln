@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo8", "Modulo8\Modulo8.csproj", "{549981BD-6B3E-43CC-9D45-8EE6576FE3C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo8", "Modulo8\Modulo8.csproj", "{549981BD-6B3E-43CC-9D45-8EE6576FE3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo8TDD", "Modulo8TDD\Modulo8TDD.csproj", "{9325A6DD-2A9B-42DB-A305-2846D899809A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo8TDDTest", "Modulo8TDDTest\Modulo8TDDTest.csproj", "{49F30642-349D-41E1-98BE-7E868CA64DCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{549981BD-6B3E-43CC-9D45-8EE6576FE3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{549981BD-6B3E-43CC-9D45-8EE6576FE3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{549981BD-6B3E-43CC-9D45-8EE6576FE3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9325A6DD-2A9B-42DB-A305-2846D899809A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9325A6DD-2A9B-42DB-A305-2846D899809A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9325A6DD-2A9B-42DB-A305-2846D899809A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9325A6DD-2A9B-42DB-A305-2846D899809A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F30642-349D-41E1-98BE-7E868CA64DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F30642-349D-41E1-98BE-7E868CA64DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F30642-349D-41E1-98BE-7E868CA64DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F30642-349D-41E1-98BE-7E868CA64DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

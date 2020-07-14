@@ -21,17 +21,15 @@ namespace Modulo8.CLEANCODE
 
             return false;
         }
-    }
-    public bool VerificarNumeroLista(List<int> listaNumeros, int numeroProcurado)
+        public bool VerificarNumeroLista(List<int> listaNumeros, int numeroProcurado)
         {
-            for(int i =0; i < listaNumeros.Count; i++)
+            for (int i = 0; i < listaNumeros.Count; i++)
             {
-                if(listaNumeros[i] == numeroProcurado)
+                if (listaNumeros[i] == numeroProcurado)
                 {
                     return true;
                 }
             }
-
             return false;
         }
     }

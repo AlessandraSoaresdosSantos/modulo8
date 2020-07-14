@@ -1,0 +1,9 @@
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\bin\Debug\netcoreapp3.1\Modulo8TDD.deps.json
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\bin\Debug\netcoreapp3.1\Modulo8TDD.dll
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\bin\Debug\netcoreapp3.1\Modulo8TDD.pdb
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\obj\Debug\netcoreapp3.1\Modulo8TDD.csprojAssemblyReference.cache
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\obj\Debug\netcoreapp3.1\Modulo8TDD.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\obj\Debug\netcoreapp3.1\Modulo8TDD.AssemblyInfo.cs
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\obj\Debug\netcoreapp3.1\Modulo8TDD.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\obj\Debug\netcoreapp3.1\Modulo8TDD.dll
+C:\Users\aless\source\repos\modulo8\Modulo8TDD\obj\Debug\netcoreapp3.1\Modulo8TDD.pdb
